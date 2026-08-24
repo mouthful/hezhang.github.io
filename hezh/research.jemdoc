@@ -12,10 +12,16 @@ My research interest includes generative models, geometric deep learning, and le
 == Selected Publications
 (†equal contribution, *corresponding authors) 
 
-. *He Zhang†*, Siyuan Liu†, Jiacheng You, Chang Liu\*, Shuxin Zheng\*, Ziheng Lu, Tong Wang, Nanning Zheng, Bin Shao\*. Overcoming the Barrier of Orbital-Free Density Functional Theory for Molecular Systems Using Deep Learning. /Nature Computational Science/, 2024.
-. *He Zhang*, Chang Liu\*, Zun Wang, Xinran Wei, Siyuan Liu, Nanning Zheng\*, Bin Shao, Tie-Yan Liu. /International Conference on Machine Learning/, 2024.
-. *He Zhang†*, Fusong Ju†, Jianwei Zhu, Liang He, Bin Shao\*, Nanning Zheng\*, Tie-Yan Liu. Coevolution transformer for protein contact prediction. /Advances in Neural Information Processing Systems/, 2021.
-. Weitao Du\*†, *He Zhang†*, Yuanqi Du, Qi Meng\*, Wei Chen, Nanning Zheng, Bin Shao, Tie-Yan Liu. SE(3) equivariant graph neural networks with complete local frames. /International Conference on Machine Learning/, 2022.
+=== Quantum Chemistry
+. Haoran Li, Bilin Gui, He Zhang\*, Le Yang\*, Hao-Sen Chen. Accelerated Stable Structure Prediction of Li-Intercalated Bilayer Graphene Using a Data-Efficient Deep Learning Framework. /preprint/, 2026
+. He Zhang†, Siyuan Liu†, Jiacheng You, Chang Liu\*, Shuxin Zheng\*, Ziheng Lu, Tong Wang, Nanning Zheng, Bin Shao\*. Overcoming the Barrier of Orbital-Free Density Functional Theory for Molecular Systems Using Deep Learning. /Nature Computational Science/, 2024.
+. He Zhang, Chang Liu\*, Zun Wang, Xinran Wei, Siyuan Liu, Nanning Zheng\*, Bin Shao, Tie-Yan Liu. Self-Consistency Training for Density-Functional-Theory Hamiltonian Prediction. /International Conference on Machine Learning/, 2024.
+=== Computatioal Biology
+. Hao Zhang, He Zhang\*, Miao Kang, Kaipeng Zhang, Tao Yang, Nanning Zheng\*. Functional Locality–Aligned Learning Reveals Structure–Function Causality in Enzyme Kinetics. /preprint/, 2026
+. He Zhang†, Fusong Ju†, Jianwei Zhu, Liang He, Bin Shao\*, Nanning Zheng\*, Tie-Yan Liu. Coevolution transformer for protein contact prediction. /Advances in Neural Information Processing Systems/, 2021.
+. Weitao Du\*†, He Zhang†, Yuanqi Du, Qi Meng\*, Wei Chen, Nanning Zheng, Bin Shao, Tie-Yan Liu. SE(3) equivariant graph neural networks with complete local frames. /International Conference on Machine Learning/, 2022.
+
+=== Generative Models
 . Weitao Du†, *He Zhang†*, Tao Yang†, Yuanqi Du†. A flexible diffusion model. /International Conference on Machine Learning/, 2023.
 
-A fuller list of papers and citations is on [https://scholar.google.com/citations?user=ACpFECkAAAAJ&hl=zh-CN Google Scholar].
+A fuller list of papers is on [https://scholar.google.com/citations?user=ACpFECkAAAAJ&hl=zh-CN Google Scholar].
